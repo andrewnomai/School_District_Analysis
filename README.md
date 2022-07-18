@@ -30,7 +30,8 @@ The district summary has been slightly affected due to the refactored data but n
  
 **PyCitySchoolsData ORIGINAL** 
 
-![PyCitySchools_SchoolSummary](https://user-images.githubusercontent.com/107603065/179449295-41ce2d2a-8b2a-4e1a-993b-48a426dd4cfa.png)
+![PyCitySchools_Challenge_SchoolSummary](https://user-images.githubusercontent.com/107603065/179450974-48a95a56-65d2-4a21-b01f-bbaef942a020.png)
+
 
 **PyCitySchoolsDataChallenge REFACTORED**
 

@@ -89,7 +89,7 @@ The dataset for math and reading scores by grade do not change much apart from T
 
 ![PyCitySchools_Challenge_SpendingSummary](https://user-images.githubusercontent.com/107603065/179454209-c23ac128-ed25-4d95-bb1d-b282851eb7ce.png)
 
-The dataset for spending did not change due to the dataset not including the agent of discrepancy among the data which is the ninth-graders from Thomas High School. Therefore, this piece of information was not used to performance any analysis and therefore has not caused any changes amongst the data. 
+The dataset for spending does not change much due to the dataset not including the agent of discrepancy among the data which is the ninth-graders from Thomas High School. Therefore, this piece of information was not used to performance any analysis and therefore has not caused any significant changes amongst the data. 
 
 ##### Scores by Size
 
@@ -101,7 +101,7 @@ The dataset for spending did not change due to the dataset not including the age
 
 ![PyCitySchools_Challenge_SizeSummary](https://user-images.githubusercontent.com/107603065/179454422-1bcc5c29-1ca5-4091-a5cd-5d8c05a83489.png)
 
-Similarly to the previous section, the data within the dataset did not change due to the discrepency among the data not being included in this set to alter or cause any difference in the anaylsis.
+The data within the dataset did not change due to the discrepency among the data not being included in this set to alter or cause any difference in the anaylsis.
 
 ##### Scores by Type
 

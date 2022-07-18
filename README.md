@@ -6,8 +6,8 @@ Cheif Data Scientist Maria is responsible for analyzing information for city sch
 - Data Source: PyCitySchools.ipynb 
 - Software: Python, Anaconda, Jupyter Notebook, Pandas
 
-## Results
-- ##### District Summary
+# Results
+## District Summary
 
 **PyCitySchoolsData ORIGINAL**
 
@@ -26,7 +26,7 @@ Cheif Data Scientist Maria is responsible for analyzing information for city sch
 
 The district summary has been slightly affected due to the refactored data but not by much. This would unlikely cause an issue regarding performance trends within the district as the change is minimal.
 
-- ##### School Summary
+## School Summary
  
 **PyCitySchoolsData ORIGINAL** 
 

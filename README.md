@@ -47,7 +47,7 @@ Within the school district summary, Thomas High School's data has largely been a
 
 ##### Thomas High Performance Relative to Other Schools
 
-Replacing 9th Graders Scores clearly affects Thomas High School's performance relative to other schools because there has been a significant shift within the ranks of the top performing schools, with Thomas High School previously as one of the top performing schools however, after the data cleanup, this positioned Thomas High School much lower down the rankings of the data set. *Image 1* shows the data before the clean up of the top 5 schools, while *Image 2* shows the data afterwards.
+Replacing 9th Graders Scores clearly affects Thomas High School's performance relative to other schools because there has been a significant shift within the ranks of the top performing schools, with Thomas High School previously as one of the top performing schools however, after the data cleanup, this positioned Thomas High School much lower down the rankings of the data set. *Image 1* shows the data before the clean up of the top 5 schools, while *Image 2* shows Thomas High School percentages in relation to other schools' positionings after the clean up. 
 
 **PyCitySchoolsData ORIGINAL** *Image 1*
 
@@ -55,7 +55,7 @@ Replacing 9th Graders Scores clearly affects Thomas High School's performance re
 
 **PyCitySchoolsDataChallenge REFACTORED** *Image 2*
 
-![PyCitySchools_Challenge_Top5Schools](https://user-images.githubusercontent.com/107603065/179452400-221974f5-5d51-4d44-83fa-9613530025cd.png)
+![PyCitySchools_Challenge_ThomasHigh](https://user-images.githubusercontent.com/107603065/179456171-3881b2d6-87f9-4f94-b4d3-3cc5c165d938.png)
 
 
 ##### Math and Reading Perforamnce by Grade

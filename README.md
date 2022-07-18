@@ -11,7 +11,7 @@ Cheif Data Scientist Maria is responsible for analyzing information for city sch
 
 **PyCitySchoolsData ORIGINAL**
 
-![PyCitySchools_DistrictSummary](https://user-images.githubusercontent.com/107603065/179449144-daa6f533-7fad-40e8-80f1-cae7b275e883.png)
+![PyCitySchools_Challenge_SchoolSummary](https://user-images.githubusercontent.com/107603065/179450875-a70eb47c-b7d5-43fa-8de3-09cfebb0806a.png)
 
 
 **PyCitySchoolsDataChallenge REFACTORED** 

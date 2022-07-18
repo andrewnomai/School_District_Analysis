@@ -45,7 +45,9 @@ Within the school district summary, Thomas High School's data has largely been a
   
 ## Replacing 9th Graders Scores
 
-Replacing 9th Graders Scores clearly affects Thomas High School's performance relative to other schools because there has been a significant shift within the ranks of the top performing schools, with Thomas High School previously as one of the top performing schools however, after the data cleanup, this positioned Thomas High School much lower down the rankings of the data set. *Image 1* shows the data before the clean up of the top 5 schools, while *Image 2* shows the data afterwards. *Image 3* shows the bottom 5 schools before the clean up and *Image 4* shows the data afterwards.  
+##### Thomas High Performance Relative to Other Schools
+
+Replacing 9th Graders Scores clearly affects Thomas High School's performance relative to other schools because there has been a significant shift within the ranks of the top performing schools, with Thomas High School previously as one of the top performing schools however, after the data cleanup, this positioned Thomas High School much lower down the rankings of the data set. *Image 1* shows the data before the clean up of the top 5 schools, while *Image 2* shows the data afterwards.
 
 **PyCitySchoolsData ORIGINAL** *Image 1*
 
@@ -55,15 +57,69 @@ Replacing 9th Graders Scores clearly affects Thomas High School's performance re
 
 ![PyCitySchools_Challenge_Top5Schools](https://user-images.githubusercontent.com/107603065/179452400-221974f5-5d51-4d44-83fa-9613530025cd.png)
 
-**PyCitySchoolsData ORIGINAL** *Image 3*
 
-![PyCitySchools_Bottom5Schools](https://user-images.githubusercontent.com/107603065/179452733-b88b0c8c-779f-40df-95bd-e6e521102c10.png)
+##### Math and Reading Perforamnce by Grade
 
-**PyCitySchoolsDataChallenge REFACTORED** *Image 4*
+**PyCitySchoolsData ORIGINAL** *MATH*
 
-![PyCitySchools_Challenge_Bottom5Schools](https://user-images.githubusercontent.com/107603065/179452747-dbb63208-d525-4d8c-9b19-f83bbb774c5d.png)
+![PyCitySchools_MathScoresByGrade](https://user-images.githubusercontent.com/107603065/179453713-f2794ac0-f725-4650-99e7-d56a5e7bea53.png)
+
+**PyCitySchoolsDataChallenge REFACTORED** *MATH*
+
+![PyCitySchools_Challenge_MathScoresByGrade](https://user-images.githubusercontent.com/107603065/179453754-47300366-8b17-45db-86fe-7ae879fa0fa1.png)
+
+**PyCitySchoolsData ORIGINAL** *READING*
+
+![PyCitySchools_ReadingScoresByGrade](https://user-images.githubusercontent.com/107603065/179453845-609f0af8-e61a-4b49-a3c4-f68442bdafd2.png)
+
+**PyCitySchoolsDataChallenge REFACTORED** *READING*
+
+![PyCitySchools_Challenge_ReadingScoresByGrade](https://user-images.githubusercontent.com/107603065/179453870-4104003b-f0b0-48cd-bbb7-4bc0ba70e3b9.png)
+
+The dataset for math and reading scores by grade do not change much apart from Thomas High School with replaces an actual numerical value with NaN. Compared to the other schools, the data is still the same. 
 
 
+##### Scores by Spending
+
+**PyCitySchoolsData ORIGINAL**
+
+![PyCitySchools_SpendingSummary](https://user-images.githubusercontent.com/107603065/179454201-e60afaf3-eee5-4f05-b569-4a02f0aa867a.png)
+
+**PyCitySchoolsDataChallenge REFACTORED**
+
+![PyCitySchools_Challenge_SpendingSummary](https://user-images.githubusercontent.com/107603065/179454209-c23ac128-ed25-4d95-bb1d-b282851eb7ce.png)
+
+The dataset for spending did not change due to the dataset not including the agent of discrepancy among the data which is the ninth-graders from Thomas High School. Therefore, this piece of information was not used to performance any analysis and therefore has not caused any changes amongst the data. 
+
+##### Scores by Size
+
+**PyCitySchoolsData ORIGINAL**
+
+![PyCitySchools_SizeSummary](https://user-images.githubusercontent.com/107603065/179454405-f5ec348f-224e-4af6-9ee5-3d254baf3d90.png)
+
+**PyCitySchoolsDataChallenge REFACTORED**
+
+![PyCitySchools_Challenge_SizeSummary](https://user-images.githubusercontent.com/107603065/179454422-1bcc5c29-1ca5-4091-a5cd-5d8c05a83489.png)
+
+Similarly to the previous section, the data within the dataset did not change due to the discrepency among the data not being included in this set to alter or cause any difference in the anaylsis.
+
+##### Scores by Type
+
+**PyCitySchoolsData ORIGINAL**
+
+![PyCitySchools_TypeSummary](https://user-images.githubusercontent.com/107603065/179454480-27321694-44ba-4121-97b5-9be696c0184b.png)
+
+**PyCitySchoolsDataChallenge REFACTORED**
+
+![PyCitySchools_Challenge_TypeSummary](https://user-images.githubusercontent.com/107603065/179454464-3afb99a1-51ba-4ae6-aa90-01afb94d6897.png)
+
+Similarly to the previous section, the data within the dataset did not change due to the discrepency among the data not being included in this set to alter or cause any difference in the anaylsis.
     
 ## Summary
 
+##### Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+
+1. The math, reading, and overall passing percentage for Thomas High School significantly drops as a result of the replacement. 
+2. As a result of the replacement, the drop in percentage causes Thomas High School to drop from the top high performing schools.
+3. To counter the discrepancy, we fixed the data to perform an anaylsis from Thomas High's 10th to 12th graders.
+4. With the absence of the ninth grader discrepancy, Thomas High rises as one of the top performing school. 

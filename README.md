@@ -101,7 +101,7 @@ The dataset for spending does not change much due to the dataset not including t
 
 ![PyCitySchools_Challenge_SizeSummary](https://user-images.githubusercontent.com/107603065/179454422-1bcc5c29-1ca5-4091-a5cd-5d8c05a83489.png)
 
-The data within the dataset did not change due to the discrepency among the data not being included in this set to alter or cause any difference in the anaylsis.
+The data within the dataset did not change due to the discrepency among the data in this set to alter or cause any significant difference in the anaylsis.
 
 ##### Scores by Type
 
@@ -113,7 +113,7 @@ The data within the dataset did not change due to the discrepency among the data
 
 ![PyCitySchools_Challenge_TypeSummary](https://user-images.githubusercontent.com/107603065/179454464-3afb99a1-51ba-4ae6-aa90-01afb94d6897.png)
 
-Similarly to the previous section, the data within the dataset did not change due to the discrepency among the data not being included in this set to alter or cause any difference in the anaylsis.
+Similarly to the previous section, The data within the dataset did not change due to the discrepency among the data in this set to alter or cause any significant difference in the anaylsis.
     
 ## Summary
 

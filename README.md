@@ -19,10 +19,10 @@ Cheif Data Scientist Maria is responsible for analyzing information for city sch
 ![PyCitySchools_Challenge_DistrictSummary](https://user-images.githubusercontent.com/107603065/179449188-395464ba-a960-481b-997f-92bc478da7d4.png)
 
 - Average Math Score went from **79.0** to **78.9**
-- Average Reading Score remained at 81.9
-- Percentage of Passing Math went from 75 to 74.8
-- Percentage of Passing Reading went from 86 to 85.7
-- Overall Passing Percentage went from 65 to 64.9
+- Average Reading Score remained at **81.9**
+- Percentage of Passing Math went from **75** to **74.8**
+- Percentage of Passing Reading went from **86** to **85.7
+- Overall Passing Percentage went from **65** to **64.9
 
 The district summary has been slightly affected due to the refactored data but not by much. This would unlikely cause an issue regarding performance trends within the district as the change is minimal.
 
@@ -37,11 +37,11 @@ The district summary has been slightly affected due to the refactored data but n
 
 ![PyCitySchools_Challenge_SchoolSummary](https://user-images.githubusercontent.com/107603065/179449307-b70ab258-48ee-495c-adfd-67036d592dea.png)
 
-- Average Math Score at Thomas High went from **79.0** to **78.9**
-- Average Reading Score at Thomas High went from 
-- Percentage of Passing Math at Thomas High went from 75 to 74.8
-- Percentage of Passing Reading at Thomas High went from 86 to 85.7
-- Overall Passing Percentage at Thomas High went from 65 to 64.9
+- Average Math Score went from **79.0** to **78.9**
+- Average Reading Score remained at **81.9**
+- Percentage of Passing Math went from **75** to **74.8**
+- Percentage of Passing Reading went from **86** to **85.7
+- Overall Passing Percentage went from **65** to **64.9
 
 
   

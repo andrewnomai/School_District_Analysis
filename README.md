@@ -37,16 +37,24 @@ The district summary has been slightly affected due to the refactored data but n
 
 ![PyCitySchools_Challenge_SchoolSummary](https://user-images.githubusercontent.com/107603065/179449307-b70ab258-48ee-495c-adfd-67036d592dea.png)
 
-- Average Math Score went from **79.0** to **78.9**
-- Average Reading Score remained at **81.9**
-- Percentage of Passing Math went from **75** to **74.8**
-- Percentage of Passing Reading went from **86** to **85.7
-- Overall Passing Percentage went from **65** to **64.9
+- Percentage of Passing Math went from approximately **93%** to **67%**
+- Percentage of Passing Reading went from approximately **97%** to **69%**
+- Overall Passing Percentage went from approximately **91%** to **65%**
 
-
+Within the school district summary, Thomas High School's data has largely been affected, specifically the passing percentage of math, reading, and overall. As a result of fixing the discrepency with the previous data set, the data from Thomas High reflects the percentage of scores excluding academic dishonesty. This allows for a more accurate analysis within the school. 
   
-  - ##### Replacing 9th Graders Scores
-    - 
+## Replacing 9th Graders Scores
+
+Replacing 9th Graders Scores clearly affects Thomas High School's performance relative to other schools because there has been a significant shift within the ranks of the top performing schools, with Thomas High School previously as one of the top performing schools however, after the data cleanup, this positioned Thomas High School much lower down the rankings of the data set. *Image 1* shows the data before the clean up of the top 5 schools, while *Image 2* shows the data afterwards. *Image 3* shows the bottom 5 schools before the clean up and *Image 4* shows the data afterwards.  
+
+**PyCitySchoolsData ORIGINAL** *Image 1*
+
+![PyCitySchools_Top5Schools](https://user-images.githubusercontent.com/107603065/179452375-3ed11b1d-0191-4ae7-b36b-ac85b4c06618.png)
+
+**PyCitySchoolsDataChallenge REFACTORED**
+![PyCitySchools_Challenge_Top5Schools](https://user-images.githubusercontent.com/107603065/179452400-221974f5-5d51-4d44-83fa-9613530025cd.png)
+
+
     
 ## Summary
 

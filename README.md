@@ -51,8 +51,17 @@ Replacing 9th Graders Scores clearly affects Thomas High School's performance re
 
 ![PyCitySchools_Top5Schools](https://user-images.githubusercontent.com/107603065/179452375-3ed11b1d-0191-4ae7-b36b-ac85b4c06618.png)
 
-**PyCitySchoolsDataChallenge REFACTORED**
+**PyCitySchoolsDataChallenge REFACTORED** *Image 2*
+
 ![PyCitySchools_Challenge_Top5Schools](https://user-images.githubusercontent.com/107603065/179452400-221974f5-5d51-4d44-83fa-9613530025cd.png)
+
+**PyCitySchoolsData ORIGINAL** *Image 3*
+
+![PyCitySchools_Bottom5Schools](https://user-images.githubusercontent.com/107603065/179452733-b88b0c8c-779f-40df-95bd-e6e521102c10.png)
+
+**PyCitySchoolsDataChallenge REFACTORED** *Image 4*
+
+![PyCitySchools_Challenge_Bottom5Schools](https://user-images.githubusercontent.com/107603065/179452747-dbb63208-d525-4d8c-9b19-f83bbb774c5d.png)
 
 
     

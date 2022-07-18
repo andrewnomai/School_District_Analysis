@@ -21,8 +21,8 @@ Cheif Data Scientist Maria is responsible for analyzing information for city sch
 - Average Math Score went from **79.0** to **78.9**
 - Average Reading Score remained at **81.9**
 - Percentage of Passing Math went from **75** to **74.8**
-- Percentage of Passing Reading went from **86** to **85.7
-- Overall Passing Percentage went from **65** to **64.9
+- Percentage of Passing Reading went from **86** to **85.7**
+- Overall Passing Percentage went from **65** to **64.9**
 
 The district summary has been slightly affected due to the refactored data but not by much. This would unlikely cause an issue regarding performance trends within the district as the change is minimal.
 
